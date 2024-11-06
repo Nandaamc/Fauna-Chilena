@@ -12,6 +12,29 @@
 
 # Usuarios 
 ## 1. Usuarios extremos (más probable): 
+Fotógrafo de naturaleza amateur:
+
+- Objetivo: Obtener información para planificar salidas fotográficas y documentar fauna local.
+  
+- Necesidades: Datos sobre el hábitat y características físicas de las especies.
+  
+- Frustraciones: Poca claridad en la ubicación geográfica de las especies.
+  
+- Contexto: Usa la web para identificar especies y explorar posibilidades fotográficas.
+
+
+## 2. Usuarios Promedio:
+Estudiante de secundaria:
+
+- Objetivo: Completar tareas educativas y satisfacer su curiosidad sobre la fauna chilena.
+  
+- Necesidades: Información accesible, organizada y visualmente atractiva.
+  
+- Frustraciones: Falta de contenido visual y recursos educativos.
+  
+- Contexto: Navega en la web y usa aplicaciones para complementar estudios.
+
+## 3. Usuario extremo (menos probable): 
 Curador de museos de historia natural:
 
 - Objetivo: Busca información detallada y científica para exhibiciones y estudios.
@@ -22,9 +45,8 @@ Curador de museos de historia natural:
 
 - Contexto: Consulta sitios con fines de investigación avanzada.
 
-## 2. Usuarios Promedio:
+# Antecedentes: 
 
-## 3. Usuario extremo (menos probable): 
 
 
 
