@@ -5,4 +5,8 @@
 
 ----
 
-Objetivo general: Crear un portafolio interactivo y educativo que divulgue información sobre la fauna silvestre de Chile, facilitando el conocimiento de diversas especies y fomentando la conservación
+#Objetivo general: 
+Crear un portafolio interactivo y educativo que divulgue información sobre la fauna silvestre de Chile, facilitando el conocimiento de diversas especies y fomentando la conservación. 
+
+*Motivación personal: Este año en Taller 7: Hemos estado trabajando con el Refugio Animal Cascada en el San José de Maipo. Todo este proceso, me ha llevado a acercarme mucho a las especies silvestres que hay en Chile y la preocupante amenaza que sufren hoy en día. Por esta razón, me llama la atención seguir trabajando por esta área y hasta incluso desarrollarla en seminario/titulo.*
+
