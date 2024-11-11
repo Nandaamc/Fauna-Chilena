@@ -47,7 +47,44 @@ Curador de museos de historia natural:
 
 # Antecedentes: 
 
+## 1. Animalia:
+Enlace: https://animalia.bio/
 
+Positivos:
+Plataforma enfocada en la biodiversidad, con un enfoque visual interesante para explorar animales.
+Ofrece información sobre cada especie con imágenes y datos relevantes.
+Interfaz amigable y fácil de usar
+
+Negativos:
+El enfoque es más global, lo que puede no ser tan útil para una perspectiva exclusivamente chilena.
+Falta de interactividad más profunda (por ejemplo, comparaciones entre especies o interacción directa con el ecosistema).
+
+## 2. Aves de Chile
+Enlace: https://www.avesdechile.cl/
+
+Positivos:
+Enfoque dedicado a la fauna chilena, específicamente a las aves.
+Base de datos completa con detalles sobre cada especie, distribución geográfica y estado de conservación.
+Diseño accesible y fácil de usar.
+
+Negativos:
+Solo se enfoca en aves, lo cual limita la diversidad de fauna cubierta.
+Podría mejorar la interactividad y elementos multimedia para hacer la experiencia más atractiva.
+
+## 3. iNaturalist
+Enlace: https://www.inaturalist.org/
+
+Positivos:
+Plataforma colaborativa que permite a los usuarios subir y compartir observaciones sobre fauna y flora.
+Facilita la identificación de especies en el campo mediante la cámara del teléfono.
+Excelente para fomentar la participación ciudadana y el aprendizaje práctico.
+
+Negativos:
+El enfoque está más en la identificación de especies y menos en la educación sobre su conservación.
+Puede ser difícil para los usuarios sin experiencia reconocer correctamente las especies.
+
+----
+# Referentes:
 
 
 
