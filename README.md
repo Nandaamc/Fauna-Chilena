@@ -6,44 +6,48 @@
 ----
 
 # Objetivo general: 
-## Crear un portafolio interactivo y educativo que divulgue información sobre la fauna silvestre de Chile, facilitando el conocimiento de diversas especies y fomentando la conservación. 
+## Crear un portafolio interactivo y educativo que divulgue información sobre la fauna silvestre en extinción de Chile, facilitando el conocimiento de diversas especies y fomentando la conservación. 
 
 *Motivación personal: Este año en Taller 7: Hemos estado trabajando con el Refugio Animal Cascada en el San José de Maipo. Todo este proceso, me ha llevado a acercarme mucho a las especies silvestres que hay en Chile y la preocupante amenaza que sufren hoy en día. Por esta razón, me llama la atención seguir trabajando por esta área y hasta incluso desarrollarla en seminario/titulo.*
 
 # Usuarios 
-## 1. Usuarios extremos (más probable): 
-Fotógrafo de naturaleza amateur:
-
-- Objetivo: Obtener información para planificar salidas fotográficas y documentar fauna local.
+# 1. Usuario Extremo (menos probable): "Lucía, la Observadora Casual"
+- Perfil: 22 años, estudiante de diseño de modas. Conexión limitada a la naturaleza, ve a los animales salvajes como algo lejano.
+- Motivaciones: Descubrir temas fuera de su ámbito de estudio, le atraen los elementos visuales bien diseñados y únicos.
+- Objetivos: Quiere aprender sobre algo nuevo sin necesidad de profundizar demasiado. Prefiere contenidos visuales impactantes.
+- Comportamientos: Navega de forma rápida; se interesa solo en los datos clave y las imágenes.
+- Dolores: Siente que la información sobre conservación es muy científica y difícil de comprender. No se engancha fácilmente con contenido extenso.
   
-- Necesidades: Datos sobre el hábitat y características físicas de las especies.
-  
-- Frustraciones: Poca claridad en la ubicación geográfica de las especies.
-  
-- Contexto: Usa la web para identificar especies y explorar posibilidades fotográficas.
+* Escenario de Uso: * 
+Lucía ingresa al portafolio porque vio una mención en redes sociales. Espera encontrar imágenes llamativas y contenido breve que pueda explorar en poco tiempo, y que quizás pueda compartir en sus redes. Elementos interactivos que le permitan ver un antes y después del hábitat de la especie o descubrir datos curiosos sobre los animales la mantienen interesada.
+
+# 2. Usuario Extremo (más probable): "Joaquín, el Científico Dedicado"
+Perfil: 45 años, biólogo especializado en conservación, trabaja en proyectos de recuperación de hábitats en zonas protegidas de Chile.
+Motivaciones: Acceso a información detallada y confiable, aprender sobre el estado actual de cada especie y nuevas herramientas de conservación.
+Objetivos: Obtener datos científicos que complementen su trabajo, actualizar sus conocimientos sobre políticas y acciones de conservación en Chile.
+Comportamientos: Navega a profundidad y prefiere contenido estructurado y con fuentes claras.
+Dolores: Siente que muchos portafolios en línea son demasiado superficiales o carecen de la profundidad científica que necesita para su trabajo.
+Escenario de Uso:
+Joaquín visita el portafolio para evaluar si puede ser útil para su trabajo y podría recomendarlo como una herramienta educativa en sus proyectos. Accede a las secciones de cada especie y consulta los datos sobre su población, amenazas, y los esfuerzos de conservación actuales. La interactividad que destaca la relación entre el hábitat de la especie y las acciones humanas le resulta muy útil para visualizar problemáticas complejas.
+
+# 3. Usuario Promedio: "María, la Curiosa Ambientalista"
+Perfil: 30 años, profesora de ciencias en un colegio secundario. Interés en la naturaleza y la conservación, aunque sin una especialización formal en fauna.
+Motivaciones: Conocer más sobre especies en peligro para incluir estos temas en sus clases. Le interesa un enfoque práctico y didáctico.
+Objetivos: Busca contenido accesible y atractivo que pueda adaptar en sus lecciones; valora la inclusión de datos básicos y visualizaciones interactivas para captar la atención de sus estudiantes.
+Comportamientos: Navega a un nivel medio, dedica tiempo a revisar información pero necesita que el contenido sea claro y relevante.
+Dolores: Muchas veces siente que el material educativo es visualmente pobre o muy técnico y difícil de adaptar para un aula.
+Escenario de Uso:
+María explora el portafolio para familiarizarse con algunas especies y revisar las actividades interactivas. Busca imágenes, infografías y recursos descargables que pueda usar con sus estudiantes, y se interesa por las historias de cada especie y su relevancia para la biodiversidad de Chile.
 
 
-## 2. Usuarios Promedio:
-Estudiante de secundaria:
 
-- Objetivo: Completar tareas educativas y satisfacer su curiosidad sobre la fauna chilena.
-  
-- Necesidades: Información accesible, organizada y visualmente atractiva.
-  
-- Frustraciones: Falta de contenido visual y recursos educativos.
-  
-- Contexto: Navega en la web y usa aplicaciones para complementar estudios.
 
-## 3. Usuario extremo (menos probable): 
-Curador de museos de historia natural:
 
-- Objetivo: Busca información detallada y científica para exhibiciones y estudios.
 
-- Necesidades: Precisión, referencias científicas y recursos visuales de alta calidad.
 
-- Frustraciones: Falta de profundidad o precisión en los datos, poca diversidad de especies.
 
-- Contexto: Consulta sitios con fines de investigación avanzada.
+
+
 
 # Antecedentes: 
 
