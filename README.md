@@ -11,42 +11,35 @@
 *Motivación personal: Este año en Taller 7: Hemos estado trabajando con el Refugio Animal Cascada en el San José de Maipo. Todo este proceso, me ha llevado a acercarme mucho a las especies silvestres que hay en Chile y la preocupante amenaza que sufren hoy en día. Por esta razón, me llama la atención seguir trabajando por esta área y hasta incluso desarrollarla en seminario/titulo.*
 
 # Usuarios 
-# 1. Usuario Extremo (menos probable): "Lucía, la Observadora Casual"
+# 1. Usuario Extremo (menos probable): "Lucía, la Observadora Casual"(estudiante)
 - Perfil: 22 años, estudiante de diseño de modas. Conexión limitada a la naturaleza, ve a los animales salvajes como algo lejano.
 - Motivaciones: Descubrir temas fuera de su ámbito de estudio, le atraen los elementos visuales bien diseñados y únicos.
 - Objetivos: Quiere aprender sobre algo nuevo sin necesidad de profundizar demasiado. Prefiere contenidos visuales impactantes.
 - Comportamientos: Navega de forma rápida; se interesa solo en los datos clave y las imágenes.
 - Dolores: Siente que la información sobre conservación es muy científica y difícil de comprender. No se engancha fácilmente con contenido extenso.
   
-* Escenario de Uso: * 
-Lucía ingresa al portafolio porque vio una mención en redes sociales. Espera encontrar imágenes llamativas y contenido breve que pueda explorar en poco tiempo, y que quizás pueda compartir en sus redes. Elementos interactivos que le permitan ver un antes y después del hábitat de la especie o descubrir datos curiosos sobre los animales la mantienen interesada.
+*Escenario de Uso:* 
+Lucía ingresa al portafolio porque necesita antecedentes/referentes para un trabajo de la u. Espera encontrar imágenes llamativas y contenido breve que pueda explorar en poco tiempo. Elementos interactivos que le permitan ver un antes y después del hábitat de la especie o descubrir datos curiosos sobre los animales la mantienen interesada.
 
-# 2. Usuario Extremo (más probable): "Joaquín, el Científico Dedicado"
-Perfil: 45 años, biólogo especializado en conservación, trabaja en proyectos de recuperación de hábitats en zonas protegidas de Chile.
-Motivaciones: Acceso a información detallada y confiable, aprender sobre el estado actual de cada especie y nuevas herramientas de conservación.
-Objetivos: Obtener datos científicos que complementen su trabajo, actualizar sus conocimientos sobre políticas y acciones de conservación en Chile.
-Comportamientos: Navega a profundidad y prefiere contenido estructurado y con fuentes claras.
-Dolores: Siente que muchos portafolios en línea son demasiado superficiales o carecen de la profundidad científica que necesita para su trabajo.
-Escenario de Uso:
+# 2. Usuario Extremo (más probable): "Joaquín, el Científico Dedicado"(profesional científico)
+- Perfil: 45 años, biólogo especializado en conservación, trabaja en proyectos de recuperación de hábitats en zonas protegidas de Chile.
+- Motivaciones: Acceso a información detallada y confiable, aprender sobre el estado actual de cada especie y nuevas herramientas de conservación.
+- Objetivos: Obtener datos científicos que complementen su trabajo, actualizar sus conocimientos sobre políticas y acciones de conservación en Chile.
+- Comportamientos: Navega a profundidad y prefiere contenido estructurado y con fuentes claras.
+- Dolores: Siente que muchos portafolios en línea son demasiado superficiales o carecen de la profundidad científica que necesita para su trabajo.
+  
+*Escenario de Uso:*
 Joaquín visita el portafolio para evaluar si puede ser útil para su trabajo y podría recomendarlo como una herramienta educativa en sus proyectos. Accede a las secciones de cada especie y consulta los datos sobre su población, amenazas, y los esfuerzos de conservación actuales. La interactividad que destaca la relación entre el hábitat de la especie y las acciones humanas le resulta muy útil para visualizar problemáticas complejas.
 
-# 3. Usuario Promedio: "María, la Curiosa Ambientalista"
-Perfil: 30 años, profesora de ciencias en un colegio secundario. Interés en la naturaleza y la conservación, aunque sin una especialización formal en fauna.
-Motivaciones: Conocer más sobre especies en peligro para incluir estos temas en sus clases. Le interesa un enfoque práctico y didáctico.
-Objetivos: Busca contenido accesible y atractivo que pueda adaptar en sus lecciones; valora la inclusión de datos básicos y visualizaciones interactivas para captar la atención de sus estudiantes.
-Comportamientos: Navega a un nivel medio, dedica tiempo a revisar información pero necesita que el contenido sea claro y relevante.
-Dolores: Muchas veces siente que el material educativo es visualmente pobre o muy técnico y difícil de adaptar para un aula.
-Escenario de Uso:
+# 3. Usuario Promedio: "María, la Curiosa Ambientalista"(Profesioanl educativa) 
+- Perfil: 30 años, profesora de ciencias en un colegio secundario. Interés en la naturaleza y la conservación, aunque sin una especialización formal en fauna.
+- Motivaciones: Conocer más sobre especies en peligro para incluir estos temas en sus clases. Le interesa un enfoque práctico y didáctico.
+- Objetivos: Busca contenido accesible y atractivo que pueda adaptar en sus lecciones; valora la inclusión de datos básicos y visualizaciones interactivas para captar la atención de sus estudiantes.
+- Comportamientos: Navega a un nivel medio, dedica tiempo a revisar información pero necesita que el contenido sea claro y relevante.
+- Dolores: Muchas veces siente que el material educativo es visualmente pobre o muy técnico y difícil de adaptar para un aula.
+  
+*Escenario de Uso:*
 María explora el portafolio para familiarizarse con algunas especies y revisar las actividades interactivas. Busca imágenes, infografías y recursos descargables que pueda usar con sus estudiantes, y se interesa por las historias de cada especie y su relevancia para la biodiversidad de Chile.
-
-
-
-
-
-
-
-
-
 
 
 # Antecedentes: 
