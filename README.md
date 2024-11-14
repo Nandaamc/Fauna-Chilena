@@ -84,6 +84,9 @@ Puede ser difícil para los usuarios sin experiencia reconocer correctamente las
 # Referentes:
 
 
+![referente](https://github.com/user-attachments/assets/8ffdd016-4408-4765-9395-ea06d16568a7)
+
+
 
 
 
