@@ -91,3 +91,16 @@ Puede ser difícil para los usuarios sin experiencia reconocer correctamente las
 
 
 
+
+
+![desierto-1](https://github.com/user-attachments/assets/1ba1ab3c-68c6-4ee3-bc85-c02012923073)
+
+![centro-2](https://github.com/user-attachments/assets/c95fa6ec-2397-4252-a775-75bdebae87a0)
+
+![sur-3](https://github.com/user-attachments/assets/c7164dc7-1ce9-47c2-bd2e-8a0cf5e8a032)
+
+
+
+
+
+
