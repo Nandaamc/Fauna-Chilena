@@ -1,4 +1,4 @@
-/* Estilo base */
+
 * {
     margin: 0;
     padding: 0;
@@ -54,7 +54,7 @@ body {
 }
 
 .btn-main {
-    background-color: rgb(0, 77, 64); /* Aquí se actualiza el color */
+    background-color: rgb(0, 77, 64); 
     color: white;
     font-size: 1.2rem;
     padding: 15px 30px;
@@ -69,10 +69,14 @@ body {
     background-color: #3b8c2f;
 }
 
+
 .contacto {
     background-color: rgb(0, 77, 64); 
-    padding: 60px 0;
+    padding: 20px 0; 
     text-align: center;
+    position: relative;
+    z-index: 2;
+    margin-top: 0; 
 }
 
 .contacto h2 {
@@ -83,5 +87,15 @@ body {
 .contacto p {
     font-size: 1.1rem;
     color: #f5f5f5;
-    margin-bottom: 30px;
+    margin-bottom: 20px; 
+}
+
+
+.contact-info a {
+    color: #000;  
+    text-decoration: none;  
+}
+
+.contact-info a:hover {
+    color: #555; 
 }
