@@ -1,0 +1,11 @@
+[
+    {
+        "nombre": "Datos",
+        "fecha": "2023",
+        "signo": "carroñero",
+        "foto": "https://github.com/Nandaamc/nativosenalerta.cl/tree/main/img",
+        "fotos": ["nota-1.jpg", "nota-2.jpg", "nota-3.jpg"],
+        "github": "https://github.com/Nandaamc"
+    },
+    
+]
