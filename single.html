@@ -3,78 +3,140 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nativos en Alerta</title>
-    
-    <!-- Agregar Smooth Scroll a toda la página -->
-    <style>
-        html {
-            scroll-behavior: smooth;
-        }
-    </style>
-
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <title>Noticias</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
-<body>
-    <!-- Barra superior -->
-    <header class="barra-superior">
-        <h1>Nativos en Alerta</h1>
-        <nav>
-            <a href="#inicio">Inicio</a>
-            <a href="#noticias">Noticias</a>
-            <a href="#especies">Especies</a>
-            <a href="#proyecto">Sobre el Proyecto</a>
-        </nav>
-    </header>
 
-    <main class="contenido">
-        <section id="inicio" class="seccion">
-            <h2>Zorro de Darwin</h2>
-            <p>
-                Está en peligro crítico de extinción por la pérdida de hábitat y la depredación de perros, 
-                con menos de <strong>1,000 individuos</strong> en la naturaleza.
-            </p>
-            <a href="https://fundacionbunzoo.cl/zorro-de-darwin/" target="_blank">Más información</a>
+<body class="bg-white"> 
+    <div class="collapse text-bg-success" id="navbarHeader">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 col-md-7 py-4">
+                    <h4>Sobre el portafolio</h4>
+                    <p class="text-white">
+                        Chile alberga una gran diversidad de aves que habitan desde las cordilleras hasta las costas y los bosques. Entre las especies más características están los rapaces como el carancho cordillerano, el ágil cernícalo y el majestuoso águila mora, cazadores que controlan poblaciones de pequeños animales. En el sur, destacan el colorido loro choroy y el chucao, símbolo de los bosques húmedos, mientras que el picaflor, con su vuelo único, es un frecuente visitante de jardines. La lechuza blanca y el aguilucho también cumplen un rol en el control de plagas, mientras que aves marinas como el lile y el martín pescador dominan las costas y ríos, respectivamente. Cada una de estas especies contribuye a la riqueza y equilibrio de los ecosistemas chilenos.
+                    </p>
+                </div>
 
-            <!-- Carrusel de imágenes del Zorro de Darwin -->
-            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <div class="col-sm-4 offset-md-1 py-4">
+                    <h4>Te puede interesar</h4>
+                    <ul class="list-unstyled">
+                        <li><a href="https://www.gochile.cl/es/flora-fauna/" target="_blank" class="text-white">Go Chile-Flora y Fauna</a></li>
+                        <li><a href="https://www.redobservadores.cl/listado-de-centros-de-rehabilitacion-de-fauna-silvestre-en-chile/" class="text-white"> Refugio de aves </a></li>
+                    </ul>
                 </div>
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src="https://via.placeholder.com/800x400?text=Zorro+de+Darwin+1" class="d-block w-100" alt="Zorro de Darwin 1">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="https://via.placeholder.com/800x400?text=Zorro+de+Darwin+2" class="d-block w-100" alt="Zorro de Darwin 2">
-                    </div>
-                    <div class="carousel-item">
-                        <img src="https://via.placeholder.com/800x400?text=Zorro+de+Darwin+3" class="d-block w-100" alt="Zorro de Darwin 3">
-                    </div>
-                </div>
-                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
-                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Previous</span>
-                </button>
-                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
-                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                    <span class="visually-hidden">Next</span>
-                </button>
             </div>
-        </section>
+        </div>
+    </div>
 
-        <!-- Sección Sobre el Proyecto -->
-        <section id="proyecto" class="seccion">
-            <h2>Sobre el Proyecto</h2>
-            <p>
-                El proyecto "Nativos en Alerta" busca concienciar sobre las especies en peligro crítico de extinción, 
-                promoviendo su conservación y protección mediante la difusión de información clave y colaboraciones 
-                con comunidades locales.
-            </p>
-        </section>
-    </main>
+    <!-- Cambié el color de fondo de la barra aquí -->
+    <div class="navbar navbar-dark" style="background-color: rgb(0, 77, 64);">
+        <div class="container">
+            <a href="#" class="navbar-brand d-flex align-items-center">
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-star-fill me-2" viewBox="0 0 16 16">
+                    <path d="M3.612 15.443c-.386.198-.824-.149-.746-.592l.83-4.73L.173 6.765c-.329-.314-.158-.888.283-.95l4.898-.696L7.538.792c.197-.39.73-.39.927 0l2.184 4.327 4.898.696c.441.062.612.636.282.95l-3.522 3.356.83 4.73c.078.443-.36.79-.746.592L8 13.187l-4.389 2.256z"/>
+                </svg>
+                <strong>Portafolio aves chilenas</strong>
+            </a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+        </div>
+    </div>
+
+    <h1> Noticias </h1>
+
+    <div id="carouselExampleIndicators" class="carousel slide d-flex justify-content-center">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="https://raw.githubusercontent.com/Nandaamc/nativosenalerta.cl/refs/heads/main/img/nota-1.jpg" class="d-block w-100" style="max-width: 700px; max-height: 500px; margin: 0 auto;" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://raw.githubusercontent.com/Nandaamc/nativosenalerta.cl/refs/heads/main/img/nota-2.jpg" class="d-block w-100" style="max-width: 700px; max-height: 500px; margin: 0 auto;" alt="...">
+            </div>
+            <div class="carousel-item">
+                <img src="https://raw.githubusercontent.com/Nandaamc/nativosenalerta.cl/refs/heads/main/img/nota-3.jpg" class="d-block w-100" style="max-width: 700px; max-height: 500px; margin: 0 auto;" alt="...">
+            </div>
+        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="false"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="false"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
+
+    
+<body class="bg-light">
+
+<div class="container py-5">
+    <h1 class="text-center mb-4">Galería de Fauna</h1>
+    <div class="row g-4">
+        <!-- Mamíferos -->
+        <div class="col-md-3">
+            <a href="detalle-mamiferos.html" class="text-decoration-none">
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Nandaamc/nativosenalerta.cl/refs/heads/main/img/mamiferos-1.jpg" class="card-img-top" alt="Mamíferos">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Mamíferos</h5>
+                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <!-- Aves -->
+        <div class="col-md-3">
+            <a href="detalle-aves.html" class="text-decoration-none">
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Nandaamc/nativosenalerta.cl/refs/heads/main/img/aves-1.jpg" class="card-img-top" alt="Aves">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Aves</h5>
+                    </div>
+                </div>
+            </a>
+        </div>
+        
+        <!-- Reptiles -->
+        <div class="col-md-3">
+            <a href="detalle-reptiles.html" class="text-decoration-none">
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Nandaamc/nativosenalerta.cl/refs/heads/main/img/rep-1.jpg" class="card-img-top" alt="Reptiles">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Reptiles</h5>
+                    </div>
+                </div>
+            </a>
+        </div>
+        
+     
+        <div class="col-md-3">
+            <a href="detalle-marinos.html" class="text-decoration-none">
+                <div class="card">
+                    <img src="https://raw.githubusercontent.com/Nandaamc/nativosenalerta.cl/refs/heads/main/img/marinos-1.jpg" class="card-img-top" alt="Marinos">
+                    <div class="card-body">
+                        <h5 class="card-title text-center">Marinos</h5>
+                    </div>
+                </div>
+            </a>
+        </div>
+    </div>
+</div>
+
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+
 </html>
